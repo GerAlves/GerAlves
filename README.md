@@ -20,7 +20,7 @@
 • How to reach me: alves.ger95@gmail.com
 <br><br>
  ```javascript
-const thaizaCapelao = {
+const GerAlves = {
   
   studyingOn: [Alura],
   codeLearning: [JavaScript, Typescript, C#, SQL, API's, SASS],
