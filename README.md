@@ -57,13 +57,6 @@ const GerAlves = {
  <div> 
 <a href = "mailto:alves.ger95@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
- ![Snake animation](https://github.com/GerAlves/GerAlves/blob/output/github-contribution-grid-snake.svg)
-  
- <div align="center">
-   
-  ![](https://komarev.com/ghpvc/?username=GerAlves&color=ff69b4)
-  
-  </div>
   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=25998C&height=120&section=footer"/>
   
