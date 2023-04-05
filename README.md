@@ -49,7 +49,7 @@ const thaizaCapelao = {
   <img align="center" alt="Gerson-React" height="30" width="40" src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=currentColor">
   <img align="center" alt="Gerson-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="right" alt="" height="150" style="border-radius:50px;" src=https://i.picasion.com/pic92/bdb5c773fd0616a83207976ddd03f86f.gif">
-<a href="#"><img align="right" alt="Thaiza-foto";" src="https://media2.giphy.com/media/SudTherS6xNjITcEyc/giphy.gif" width="90" height="120" border="0" alt="#"/></a><br /><a href="#"></a>
+<br /><a href="#"></a>
   </div>
                                                                                                                                                    
   ##
@@ -57,8 +57,6 @@ const thaizaCapelao = {
   
  <div> 
 <a href = "mailto:alves.ger95@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-*/ <a href="https://www.linkedin.com/in/thaiza-capelao-383196234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> */
- 	<a href="https://www.twitch.tv/kitsuneaya" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   
  ![Snake animation](https://github.com/GerAlves/GerAlves/blob/output/github-contribution-grid-snake.svg)
   
