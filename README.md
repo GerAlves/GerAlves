@@ -22,7 +22,7 @@
  ```javascript
 const GerAlves = {
   
-  studyingOn: [Alura],
+  studyingOn: [Alura, RocketSeat],
   codeLearning: [JavaScript, Typescript, C#, SQL, API's, SASS],
   tools: [Gitlab, Github, Trello, Monday],
   learning: [React, Node, SQL, Redux, Hooks],
