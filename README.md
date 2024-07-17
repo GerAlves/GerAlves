@@ -11,7 +11,7 @@
 <br>
 • I’m currently studying on Alura/Rockseat.
 <br>
-• I’m currently learning React, JavaScript/Typescript, C#, API's.
+• I’m currently learning React, JavaScript/Typescript, C#, API's, Go.
 <br>
 • I'm Looking for oportunities and new projects.
 <br>
